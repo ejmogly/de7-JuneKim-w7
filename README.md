@@ -3,8 +3,8 @@
 - 레포지토리: https://github.com/ejmogly/de7-JuneKim-w7
 
 ## 실습 환경
-- OS: macOS (Apple Silicon M-Series)
-- Docker: Airflow 2.8.1 및 Spark 3.5.7 환경
+- OS: macOS 환경 (Docker Desktop 가상화 컨테이너)
+- Docker: Airflow 2.8.1 (CeleryExecutor) 및 Spark 3.5.7 Standalone 클러스터
 
 ## 회고
-- 7주차 데이터 엔지니어링 파이프라인 실습 진행 중입니다.
+- feature 브랜치 관점: Docker Compose를 활용한 다중 컨테이너 분산 처리와 Airflow를 통한 파이프라인 자동화의 유용성을 깊이 체감했습니다.
